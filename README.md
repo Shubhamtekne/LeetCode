@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shubhamtekne/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Shubhamtekne/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Shubhamtekne/LeetCode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Shubhamtekne/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shubhamtekne/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Shubhamtekne/LeetCode/tree/master/0344-reverse-string) |
 ## String
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Shubhamtekne/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shubhamtekne/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/Shubhamtekne/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shubhamtekne/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Shubhamtekne/LeetCode/tree/master/0485-max-consecutive-ones) |
 ## Dynamic Programming
@@ -37,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shubhamtekne/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Shubhamtekne/LeetCode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
