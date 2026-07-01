@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shubhamtekne/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Shubhamtekne/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Shubhamtekne/LeetCode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Shubhamtekne/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Shubhamtekne/LeetCode/tree/master/0344-reverse-string) |
 ## Array
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Shubhamtekne/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/Shubhamtekne/LeetCode/tree/master/0242-valid-anagram) |
 ## String Matching
 |  |
 | ------- |
@@ -43,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Shubhamtekne/LeetCode/tree/master/0189-rotate-array) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Shubhamtekne/LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
