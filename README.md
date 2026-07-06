@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shubhamtekne/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0066-plus-one](https://github.com/Shubhamtekne/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Shubhamtekne/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shubhamtekne/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Shubhamtekne/LeetCode/tree/master/0169-majority-element) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Shubhamtekne/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Shubhamtekne/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Shubhamtekne/LeetCode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Shubhamtekne/LeetCode/tree/master/0509-fibonacci-number) |
