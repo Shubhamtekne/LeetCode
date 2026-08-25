@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/Shubhamtekne/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shubhamtekne/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Shubhamtekne/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/Shubhamtekne/LeetCode/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shubhamtekne/LeetCode/tree/master/0014-longest-common-prefix) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Shubhamtekne/LeetCode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
