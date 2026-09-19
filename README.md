@@ -89,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/Shubhamtekne/LeetCode/tree/master/0704-binary-search) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Shubhamtekne/LeetCode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
