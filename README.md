@@ -93,4 +93,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Shubhamtekne/LeetCode/tree/master/0176-second-highest-salary) |
+| [0178-rank-scores](https://github.com/Shubhamtekne/LeetCode/tree/master/0178-rank-scores) |
 <!---LeetCode Topics End-->
